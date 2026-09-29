@@ -1,11 +1,14 @@
-host-suffix, v5.czyl.cf, direct
-host-suffix, v4.czyl.cf, direct
-host-suffix, v8.czyl.cf, direct
-host-suffix, v9.czyl.cf, direct
-host-suffix, v10.czyl.cf, direct
-host-suffix, 20.langge.tk, direct
-host-suffix, api.langge.cf, direct
+# > 大灰狼书源
+host-suffix, v1.langge.uk, direct
+host-suffix, v2.langge.uk, direct
+host-suffix, v4.langge.uk, direct
+host-suffix, v5.langge.uk, direct
+host-suffix, v7.langge.uk, direct
+host-suffix, v8.langge.uk, direct
+host-suffix, v9.langge.uk, direct
+host-suffix, v10.langge.uk, direct
 
+# > 机场订阅
 host-suffix, cszy.yvvy.xy, direct
 host-suffix, honghong.yyylll.kdns.fr, direct
 
