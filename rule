@@ -40,6 +40,7 @@ host-suffix, wxa.wxs.qq.com, reject
 host-suffix, wximg.wxs.qq.com, reject
 host-suffix, wxsmw.wxs.qq.com, reject
 
+host-suffix, boluomao1.com, direct
 host-suffix, xbiqugu.la, direct
 host-suffix, ibiquges.info, direct
 host-suffix, biquluo.info, direct
